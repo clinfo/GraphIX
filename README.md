@@ -22,7 +22,9 @@ In the top directory, run the code as following:<br>
 sh preprocessing/generate_kg.sh
 ```
 ## Perform 5-fold cross validation
+```
 python gcn.py train_cv --config config.json
+```
 ## Calculate contribution to the novel edge
 As an example, calculate the contribution of surrounding 1-hop nodes to Intestinal neplasms(node number: 15958)-Salicylic acid(node number: 20380) novel edge mentioned in the paper.<br>
 ```
