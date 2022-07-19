@@ -33,7 +33,7 @@ python gcn.py --config config.json visualize --visualize_type edge_score --visua
 # Citing
 ```
 @article{takagi2022,
-  title={XaiDR : A graph-based drug repositioning prediction with underlying proteins interpretable},
+  title={GraphIX: Graph-based In silico drug repoisioning with XAI},
   author={Atsuko Takagi, Eri Hamatani, Mayumi Kamada, Ryosuke Kojima, Yasushi Okuno},
   journal={},
   volume={},
