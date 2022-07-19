@@ -1,6 +1,6 @@
-# XaiDR: XAI model for Drug Repoisiotning
+# GraphIX: Graph-based In silico drug repoisioning with XAI
 # Overview
-This repository is the python implementation of paper 'XaiDR: A graph-based drug repositioning prediction with underlying proteins interpretable'.<br>
+This repository is the python implementation of paper 'GraphIX: Graph-based In silico drug repoisioning with XAI'.<br>
 XaiDR is interpretable supervised learning framework for drug repositioning. It can present important genes that have high contribution to disease-drug association prediction.
 <img width="756" alt="Overview" src="https://user-images.githubusercontent.com/49670481/179131330-7c92acf0-444f-48f0-9883-bb25a933155b.png">
 
