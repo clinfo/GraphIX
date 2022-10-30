@@ -5,7 +5,7 @@ XaiDR is interpretable supervised learning framework for drug repositioning. It 
 <img width="756" alt="Overview" src="https://user-images.githubusercontent.com/49670481/179131330-7c92acf0-444f-48f0-9883-bb25a933155b.png">
 
 # Requirements
-XaiDR is testet to work with python 3.6. The required dependencies are:<br>
+GraphIX is testet to work with python 3.6. The required dependencies are:<br>
 ```
 networkx
 numpy
@@ -34,7 +34,7 @@ python gcn.py --config config.json visualize --visualize_type edge_score --visua
 ```
 @article{takagi2022,
   title={GraphIX: Graph-based In silico drug repoisioning with XAI},
-  author={Atsuko Takagi, Eri Hamatani, Mayumi Kamada, Ryosuke Kojima, Yasushi Okuno},
+  author={Atsuko Takagi, Mayumi Kamada, Eri Hamatani, Ryosuke Kojima, Yasushi Okuno},
   journal={},
   volume={},
   pages={},
