@@ -14,6 +14,7 @@ tensorflow>=1.12
 joblib
 scipy
 scikit-learn>=0.21
+rdkit
 ```
 # Usage
 In the top directory, run the code as following:<br>
