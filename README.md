@@ -1,4 +1,4 @@
-# GraphIX: Graph-based In silico drug repoisioning with XAI
+# GraphIX: Graph-based In silico XAI for drug repositioning from biopharmaceutical network
 # Overview
 This repository is the python implementation of paper 'GraphIX: Graph-based In silico drug repoisioning with XAI'.<br>
 XaiDR is interpretable supervised learning framework for drug repositioning. It can present important genes that have high contribution to disease-drug association prediction.
@@ -34,12 +34,10 @@ python gcn.py --config config.json visualize --visualize_type edge_score --visua
 # Citing
 ```
 @article{takagi2022,
-  title={GraphIX: Graph-based In silico drug repoisioning with XAI},
+  title={GraphIX: Graph-based In silico XAI for drug repositioning from biopharmaceutical network},
   author={Atsuko Takagi, Mayumi Kamada, Eri Hamatani, Ryosuke Kojima, Yasushi Okuno},
-  journal={},
-  volume={},
-  pages={},
-  year={},
-  publisher={}
+  doi = {https://doi.org/10.48550/arXiv.2212.10788},
+  month = {12},
+  year={2022}
 }
 ```
